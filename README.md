@@ -1,6 +1,7 @@
 # Cryptocurrency App - React App
 
-A clean looking Cryptocurrency app base to tracker price
+A clean looking Cryptocurrency app base to tracker price. 
+What Is a Cryptocurrency Price Tracker? A cryptocurrency price tracker monitors the current value of different digital currencies and tokens. Many of these services provide historical data as well, allowing users to compare current prices against older values. Let's try it out with this code.
 
 ## Available Scripts
 
